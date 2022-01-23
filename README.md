@@ -20,6 +20,8 @@ Sign languages are languages that use the visual-manual modality to convey meani
 
 -[Dataset Resource](#Dataset_Resource)
 
+-[Authors](#Authors)
+
 
 ![Logo](https://44pcmk1er1zl3gbw7d4abgsh-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/ASL_Alphabet.jpg)
 
@@ -72,3 +74,17 @@ Building a image classification model
 ## Dataset_Resource
 
 https://www.kaggle.com/datamunge/sign-language-mnist
+
+## Authors
+
+[@Moha0014](https://github.com/Moha0014)
+
+[@YasserMohammedK](https://github.com/YasserMohammedK) 
+
+[@nasseralq](https://github.com/nasseralq) 
+
+[@GhassanAlrehaili](https://github.com/GhassanAlrehaili)
+
+[@akrm1](https://github.com/akrm1)
+
+[@AYAD2030](https://github.com/AYAD2030)
